@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 8.0.36, for macos14 (arm64)
+-- MySQL dump 10.13
 --
 -- Host: 127.0.0.1    Database: laravel
 -- ------------------------------------------------------
